@@ -4,7 +4,7 @@
 
 [思想花火](https://wechat2rss.xlab.app/feed/5b925323244e9737c39285596c53e3a2f4a30774.xml)
 
-[吾爱破解论坛](https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml)
+[吾爱破解论坛](https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab698)
 
 [SecOps急行军](https://wechat2rss.xlab.app/feed/9463336201a9bf776b3820be83260ccc745de53a.xml)
 
@@ -699,7 +699,7 @@
 [也谈钱](https://wechat2rss.xlab.app/feed/f2fd5af8dc3590b99509f0c501de09066d063028.xml)
 
 ## 用户提交
-
+[墨尔本大学公众号]
 [关注米柚更新](https://wechat2rss.xlab.app/feed/7391226cbd6ce8793e1e3d7d76b096bca336c571.xml)
 
 [海边的西赛罗](https://wechat2rss.xlab.app/feed/5e25483b324ae2d39510555465b12a2b2dfa4000.xml)
